@@ -22,7 +22,6 @@ OJ-MASTER is a JavaScript/Next.js web application. It appears to be a starter or
 
 ## Features
 
-*(Based on current codebase; may be expanded later.)*
 
 - Next.js web framework  
 - Client-side and server-side rendering  
